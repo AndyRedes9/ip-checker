@@ -28,5 +28,125 @@
       "latitud": 1.35208,
       "longitud": 103.82
     }
+  },
+  {
+    "ip": "20.99.132.105",
+    "pais": "United States",
+    "region": "Washington",
+    "isp": "Microsoft Corporation",
+    "coordenadas": {
+      "latitud": 47.233,
+      "longitud": -119.852
+    }
+  },
+  {
+    "ip": "23.216.10.80",
+    "pais": "United States",
+    "region": "California",
+    "isp": "Akamai International B.V.",
+    "coordenadas": {
+      "latitud": 34.0549,
+      "longitud": -118.243
+    }
+  },
+  {
+    "ip": "52.85.173.45",
+    "pais": "Singapore",
+    "region": "North West",
+    "isp": "Amazon.com, Inc.",
+    "coordenadas": {
+      "latitud": 1.35208,
+      "longitud": 103.82
+    }
+  },
+  {
+    "ip": "31.13.71.36",
+    "pais": "United States",
+    "region": "New Jersey",
+    "isp": "Facebook, Inc.",
+    "coordenadas": {
+      "latitud": 40.7876,
+      "longitud": -74.06
+    }
+  },
+  {
+    "ip": "31.13.71.36",
+    "pais": "United States",
+    "region": "New Jersey",
+    "isp": "Facebook, Inc.",
+    "coordenadas": {
+      "latitud": 40.7876,
+      "longitud": -74.06
+    }
+  },
+  {
+    "ip": "157.240.229.35",
+    "pais": "United States",
+    "region": "Virginia",
+    "isp": "Facebook, Inc.",
+    "coordenadas": {
+      "latitud": 39.0469,
+      "longitud": -77.4903
+    }
+  },
+  {
+    "ip": "8.8.8.8",
+    "pais": "United States",
+    "region": "Virginia",
+    "isp": "Google LLC",
+    "coordenadas": {
+      "latitud": 39.03,
+      "longitud": -77.5
+    }
+  },
+  {
+    "ip": "1.1.1.1",
+    "pais": "Australia",
+    "region": "Queensland",
+    "isp": "Cloudflare, Inc",
+    "coordenadas": {
+      "latitud": -27.4766,
+      "longitud": 153.0166
+    }
+  },
+  {
+    "ip": "13.107.21.200",
+    "pais": "Canada",
+    "region": "Quebec",
+    "isp": "Microsoft Corporation",
+    "coordenadas": {
+      "latitud": 45.5019,
+      "longitud": -73.5674
+    }
+  },
+  {
+    "ip": "172.217.16.206",
+    "pais": "Germany",
+    "region": "Hesse",
+    "isp": "Google LLC",
+    "coordenadas": {
+      "latitud": 50.1109,
+      "longitud": 8.68213
+    }
+  },
+  {
+    "ip": "172.217.16.206",
+    "pais": "Germany",
+    "region": "Hesse",
+    "isp": "Google LLC",
+    "coordenadas": {
+      "latitud": 50.1109,
+      "longitud": 8.68213
+    }
+  },
+  {
+    "ip": "185.199.108.153",
+    "pais": "United States",
+    "region": "California",
+    "isp": "Fastly, Inc.",
+    "coordenadas": {
+      "latitud": 37.7823,
+      "longitud": -122.391
+    }
   }
 ]

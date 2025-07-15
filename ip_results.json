@@ -1,82 +1,32 @@
 [
   {
-    "ip": "13.107.21.200",
-    "pais": "Canada",
-    "region": "Quebec",
+    "ip": "20.99.132.105",
+    "pais": "United States",
+    "region": "Washington",
     "isp": "Microsoft Corporation",
     "coordenadas": {
-      "latitud": 45.5019,
-      "longitud": -73.5674
+      "latitud": 47.233,
+      "longitud": -119.852
     }
   },
   {
-    "ip": "172.217.16.206",
-    "pais": "Germany",
-    "region": "Hesse",
-    "isp": "Google LLC",
-    "coordenadas": {
-      "latitud": 50.1109,
-      "longitud": 8.68213
-    }
-  },
-  {
-    "ip": "104.244.42.1",
+    "ip": "23.216.10.80",
     "pais": "United States",
     "region": "California",
-    "isp": "Twitter Inc.",
+    "isp": "Akamai International B.V.",
     "coordenadas": {
-      "latitud": 37.7766,
-      "longitud": -122.417
+      "latitud": 34.0549,
+      "longitud": -118.243
     }
   },
   {
-    "ip": "185.199.108.153",
-    "pais": "United States",
-    "region": "California",
-    "isp": "Fastly, Inc.",
+    "ip": "52.85.173.45",
+    "pais": "Singapore",
+    "region": "North West",
+    "isp": "Amazon.com, Inc.",
     "coordenadas": {
-      "latitud": 37.7823,
-      "longitud": -122.391
-    }
-  },
-  {
-    "ip": "34.117.59.81",
-    "pais": "United States",
-    "region": "Missouri",
-    "isp": "Google LLC",
-    "coordenadas": {
-      "latitud": 39.0997,
-      "longitud": -94.5785
-    }
-  },
-  {
-    "ip": "143.204.55.61",
-    "pais": "Norway",
-    "region": "Oslo County",
-    "isp": "Amazon.com",
-    "coordenadas": {
-      "latitud": 59.9139,
-      "longitud": 10.7522
-    }
-  },
-  {
-    "ip": "198.15.26.96",
-    "pais": "United States",
-    "region": "Florida",
-    "isp": "ERX",
-    "coordenadas": {
-      "latitud": 27.0998,
-      "longitud": -82.4543
-    }
-  },
-  {
-    "ip": "151.101.1.69",
-    "pais": "United States",
-    "region": "California",
-    "isp": "Fastly, Inc.",
-    "coordenadas": {
-      "latitud": 37.7642,
-      "longitud": -122.3993
+      "latitud": 1.35208,
+      "longitud": 103.82
     }
   }
 ]
